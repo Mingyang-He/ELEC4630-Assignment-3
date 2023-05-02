@@ -15,6 +15,8 @@ For the first time, I will attempt to give all my students on online preconfigur
 
 [Notebooks for fastai Course](https://classroom.github.com/a/55q09ppO)
 
+[Assignment 3](https://classroom.github.com/a/bFnkoIfT)
+
 [Video explaining t-SNE](https://youtu.be/RJVL80Gg3lA )
 
 ### Software to Install on your own PC
