@@ -46,7 +46,7 @@ Try running the **00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb** no
 
 ## Updates on the Assignment
 
-I may need to update this assignment from time to time.  You will need to ** Pull from Origin ** to get changes and updates. 
+I may need to update this assignment from time to time.  You will need to **Pull from Origin** to get changes and updates. 
 
 Please place your Assignment 3 solution code within this repository, so we can check your solutions. 
 
