@@ -50,4 +50,4 @@ I may need to update this assignment from time to time.  You will need to ** Pul
 
 Please place your Assignment 3 solution code in this repository, so we can check your solutions. 
 
-Good Luck
+**Good Luck!**
