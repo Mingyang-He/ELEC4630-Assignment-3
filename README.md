@@ -17,7 +17,7 @@ For the first time, I will attempt to give all my students on online preconfigur
 
 [Assignment 3](https://classroom.github.com/a/bFnkoIfT)
 
-[Video explaining t-SNE](https://youtu.be/RJVL80Gg3lA )
+[Video explaining t-SNE](https://youtu.be/RJVL80Gg3lA)
 
 ### Software to Install on your own PC
 
