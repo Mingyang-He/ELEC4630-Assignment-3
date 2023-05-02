@@ -25,6 +25,10 @@ For the first time, I will attempt to give all my students on online preconfigur
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
+[Google Drive](https://www.google.com/drive/download/)
+
+I suggest you install repositories on Google Drive after downloading **Drive for Desktop**.  Then the files are easy to access on [Google Collab](https://colab.research.google.com/). 
+
 
 ### Codespaces to run your Notebooks etc
 
