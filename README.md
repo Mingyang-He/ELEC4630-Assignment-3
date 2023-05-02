@@ -15,6 +15,8 @@ For the first time, I will attempt to give all my students on online preconfigur
 
 [Notebooks for fastai Course](https://classroom.github.com/a/55q09ppO)
 
+[Video explaining t-SNE](https://youtu.be/RJVL80Gg3lA )
+
 ### Software to Install on your own PC
 
 [Github Desktop](https://desktop.github.com/)
@@ -26,14 +28,14 @@ For the first time, I will attempt to give all my students on online preconfigur
 
 Make or link your free [GitHub](https://github.com) account.
 
-Open your account and you should see a repository of the form: The-University-of-Queensland-Lovell/fastai-course-<your_GitHub_username>
+Open your account and you should see a repository of the form: **The-University-of-Queensland-Lovell/fastai-course-<your_GitHub_username>**
 
-Open the repository and then open the file getting-started-with-codespaces.md
+Open the repository and then open the file **getting-started-with-codespaces.md**
 
 Click on the link Open with GitHub Codespaces
 
-You should see the follwing message at the top of the page: Codespace usage for this repository is paid for by lovellbrian
+You should see the follwing message at the top of the page: **Codespace usage for this repository is paid for by lovellbrian**
 
 Create your personal Deep Learning PC running Linux.
 
-Try running the 00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb notebook.
+Try running the **00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb** notebook.
