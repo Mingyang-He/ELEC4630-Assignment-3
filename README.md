@@ -40,7 +40,7 @@ Click on the link **Open with GitHub Codespaces**
 
 You should see the follwing message at the top of the page: **Codespace usage for this repository is paid for by lovellbrian**
 
-Create your personal Deep Learning PC running Linux.
+Create your personal virtual Deep Learning PC running Linux.
 
 Try running the **00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb** notebook.
 
@@ -48,6 +48,6 @@ Try running the **00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb** no
 
 I may need to update this assignment from time to time.  You will need to ** Pull from Origin ** to get changes and updates. 
 
-Please place your Assignment 3 solution code in this repository, so we can check your solutions. 
+Please place your Assignment 3 solution code within this repository, so we can check your solutions. 
 
 **Good Luck!**
