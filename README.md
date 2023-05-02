@@ -26,13 +26,15 @@ For the first time, I will attempt to give all my students on online preconfigur
 
 ### Codespaces to run your Notebooks etc
 
+Click this link [Notebooks for fastai Course](https://classroom.github.com/a/55q09ppO)
+
 Make or link your free [GitHub](https://github.com) account.
 
 Open your account and you should see a repository of the form: **The-University-of-Queensland-Lovell/fastai-course-<your_GitHub_username>**
 
 Open the repository and then open the file **getting-started-with-codespaces.md**
 
-Click on the link Open with GitHub Codespaces
+Click on the link **Open with GitHub Codespaces**
 
 You should see the follwing message at the top of the page: **Codespace usage for this repository is paid for by lovellbrian**
 
