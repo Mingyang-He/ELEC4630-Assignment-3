@@ -36,7 +36,7 @@ Click this link [Notebooks for fastai Course](https://classroom.github.com/a/55q
 
 Make or link your free [GitHub](https://github.com) account.
 
-Open your account and you should see a repository of the form: **The-University-of-Queensland-Lovell/fastai-course-<your_GitHub_username>**
+Open your account and you should see a repository of the form: **The-University-of-Queensland-Lovell/fastai-course-\<your_GitHub_username\>**
 
 Open the repository and then open the file **getting-started-with-codespaces.md**
 
@@ -47,6 +47,12 @@ You should see the follwing message at the top of the page: **Codespace usage fo
 Create your personal virtual Deep Learning PC running Linux.
 
 Try running the **00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb** notebook.
+
+## How to find your Assignment again
+
+Class Assignments are visible in your GitHub dashboard, but do not show up under your repositories in your profile as you are not the owner.  You see them when you your dashboard in GitHub. Access your dashboard anytime by clicking on the GitHub logo at the top-left of any page. 
+
+Assignments will have a name of the form **The-University-of-Queensland-Lovell/assignment-3-solution-repository-\<yourGitHubName\>** and will have a UQ logo.  
 
 ## Updates on the Assignment
 
