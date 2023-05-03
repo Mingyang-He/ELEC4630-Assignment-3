@@ -1,6 +1,5 @@
 # ELEC4630 Assignment 3 - Deep Learning Assignment
 
-[TOC]
 
 ## Here are Some Resources to Complete this Assignment
 
