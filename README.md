@@ -10,6 +10,7 @@
 - [How to find your Codespaces Machine again](#how-to-find-your-codespaces-machine-again)
 - [Try out your First fastai Notebook](#try-out-your-first-fastai-notebook)
 - [Fetching Updates on the Assignment Respositories](#fetching-updates-on-the-assignment-respositories)
+- [I Deleted the Wrong Repository](#i-deleted-the-wrong-repository)
 - [Solution Code for Submission](#solution-code-for-submission)
 
 ## Here are Some Resources to Complete this Assignment
@@ -88,6 +89,15 @@ I may need to update assignments from time to time.  If you want to refresh your
 
 1. Then Accept the Assignment invitation again to fetch the updated Assignment template. 
    - [Assignment 3 invitation](https://classroom.github.com/a/bFnkoIfT)
+
+## I Deleted the Wrong Repository
+
+Fear not. This is easily fixed as i just found out.
+
+- Click on your user icon in the top right corner of GitHub
+- Select `Settings` from the drop down
+- Now click `Repositories` in the left menu
+- Click on `Deleted Repositories` and slect `Restore`
 
 ## Solution Code for Submission
 
