@@ -72,10 +72,10 @@ Assignments will have a name of the form `The-University-of-Queensland-Lovell/as
 
 ## Fetching Updates on the Assignment Respository
 
-I may need to update this assignment from time to time.  If you want to refresh your repository, I have not found an easy way to sync the files.  One way that does work is to first delete your Assignment repository, and then re-accept the inviitation. This checks out a fresh copy of the files. 
+I may need to update this assignment from time to time.  If you want to refresh your repository, I have not found an easy way to sync the files.  One way that does work is to first delete your Assignment repository in GitHub, and then re-accept the inviitation to fetch the updated Assignment template. 
 
 ## Solution Code for Submission
 
-Please place your Assignment 3 solution code in this repository in the folder `YourSolutions`. We can run and check your solutions remotely.
+Please place your Assignment 3 solution code in this repository in the folder `YourSolutions`. We can run and check your solutions remotely from there.
 
 **Good Luck!**
