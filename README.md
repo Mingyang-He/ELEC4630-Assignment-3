@@ -2,8 +2,8 @@
 
                             Author: Brian Lovell for ELEC4630
 
-# Table of contents
-- [Here are Some Resources to Complete this Assignment](#here-are-some-resources-to-complete-this-assignment)
+# Table of Contents
+- [Here are some Resources to Complete this Assignment](#here-are-some-resources-to-complete-this-assignment)
 - [Software to Install on your own PC](#software-to-install-on-your-own-pc)
 - [Software to Install on your Phone](#software-to-install-on-your-phone)
 - [Codespaces to run your Notebooks](#codespaces-to-run-your-notebooks)
@@ -13,7 +13,7 @@
 - [I Deleted the Wrong Repository](#i-deleted-the-wrong-repository)
 - [Solution Code for Submission](#solution-code-for-submission)
 
-## Here are Some Resources to Complete this Assignment
+## Here are some Resources to Complete this Assignment
 
 For the first time, I will attempt to give all my students on online preconfigured linux server with root access and GPU acceleration via a GitHub Classroom.   Your computer will come preconfigured with an introduction to Git and the entire set of notebooks for our fastai course written by Prof Jeremy Howard.  He has literally written the book on AI.  The latest version of his course was recorded live at UQ. 
 
@@ -92,7 +92,7 @@ I may need to update assignments from time to time.  If you want to refresh your
 
 ## I Deleted the Wrong Repository
 
-Fear not. This is easily fixed as i just found out.
+Fear not. This is easily fixed as I just found out.
 
 - Click on your user icon in the top right corner of GitHub
 - Select `Settings` from the drop down
