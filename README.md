@@ -60,7 +60,7 @@ These assignment repositories are visible in your GitHub dashboard, but do not s
 - Select `Codespaces`
 - Click on the Green  `Create Codespaces on Main` button.  
 
-You should see the following message at the top of the page: *Codespace usage for this repository is paid for by lovellbrian*.  Your GitHub account now has access to both *Codespaces* and *Copilot* through the wonderful GitHub Classroom Program which is worth about $15 a month commercially. 
+You should see the following message at the top of the page: *Codespace usage for this repository is paid for by lovellbrian*.  Your GitHub account now has access to both *Codespaces* and *Copilot* through the wonderful *GitHub Classroom Program* which is worth about $15 a month commercially. 
 
 Select *Branch:main, Region: South East Asia, and Machine: 8 core*
 
@@ -76,7 +76,7 @@ Now try opening the *00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb* 
 
 You can build codespaces for any other repositories as well. 
 
-## Fetching Updates on the Assignment Respositories
+## Fetching Updates on the Assignment Repositories
 
 I may need to update assignments from time to time.  If you want to refresh your repository do as follows:
 
