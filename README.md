@@ -16,29 +16,29 @@
 
 For the first time, I will attempt to give all my students on online preconfigured linux server with root access and GPU acceleration via a GitHub Classroom.   Your computer will come preconfigured with an introduction to Git and the entire set of notebooks for our fastai course written by Prof Jeremy Howard.  He has literally written the book on AI.  The latest version of his course was recorded live at UQ. 
 
-[Practical Deep Learning Course](https://course.fast.ai/)
+- [Practical Deep Learning Course](https://course.fast.ai/)
 
-[How to setup a Personal Blog on GitHub](https://www.fast.ai/posts/2020-01-16-fast_template.html)
+- [How to setup a Personal Blog on GitHub](https://www.fast.ai/posts/2020-01-16-fast_template.html)
 
-[Tutorial on GitHub](https://classroom.github.com/a/WQ2cYhvn)
+- [Tutorial on GitHub](https://classroom.github.com/a/WQ2cYhvn)
 
-[Notebooks for fastai Course](https://classroom.github.com/a/55q09ppO)
+- [Notebooks for fastai Course](https://classroom.github.com/a/55q09ppO)
 
-[Assignment 3](https://classroom.github.com/a/bFnkoIfT)
+- [Assignment 3](https://classroom.github.com/a/bFnkoIfT)
 
-[Video explaining t-SNE](https://youtu.be/RJVL80Gg3lA)
+- [Video explaining t-SNE](https://youtu.be/RJVL80Gg3lA)
 
 ## Software to Install on your own PC
 
-[Github Desktop](https://desktop.github.com/)
+- [Github Desktop](https://desktop.github.com/)
 
-[Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-[Google Drive](https://www.google.com/drive/download/)
+- [Google Drive](https://www.google.com/drive/download/)
 
-[Git for Windows](https://gitforwindows.org/)
+- [Git for Windows](https://gitforwindows.org/)
 
-[Python for Windows](https://www.python.org/downloads/windows/)
+- [Python for Windows](https://www.python.org/downloads/windows/)
 
 I suggest you install your repositories on Google Drive after downloading `Drive for Desktop`.  Then the files are easy to access on [Google Collab](https://colab.research.google.com/). 
 
@@ -53,14 +53,14 @@ Create your personal virtual Deep Learning PC running Linux in `Codespaces`.
 
 Accept these 3 Assignment Invitations. Repositories created by invitation links are all called `Assignments` in GitHub Classroom.
 
-1. [Assignment 3](https://classroom.github.com/a/bFnkoIfT) - this is where you develop your solutions
-1. [Notebooks for fastai Course](https://classroom.github.com/a/55q09ppO) - these are the notebooks for fastai
-1. [Tutorial on GitHub](https://classroom.github.com/a/WQ2cYhvn) - learn to use Git and GitHub
+- [Assignment 3](https://classroom.github.com/a/bFnkoIfT) - this is where you develop your solutions
+- [Notebooks for fastai Course](https://classroom.github.com/a/55q09ppO) - these are the notebooks for fastai
+- [Tutorial on GitHub](https://classroom.github.com/a/WQ2cYhvn) - learn to use Git and GitHub
 
 This will creates 3 repositories in your GitHub Account of the form
-1. `The-University-of-Queensland-Lovell/assignment-3-solution-repository-<yourGitHubName>`
-1. `The-University-of-Queensland-Lovell/fastai-course-<yourGitHubName>`
-1. `The-University-of-Queensland-Lovell/git-github-fundamentals-<yourGitHubName>`
+- `The-University-of-Queensland-Lovell/assignment-3-solution-repository-<yourGitHubName>`
+- `The-University-of-Queensland-Lovell/fastai-course-<yourGitHubName>`
+- `The-University-of-Queensland-Lovell/git-github-fundamentals-<yourGitHubName>`
 
 These assignment repositories are visible in your GitHub dashboard, but do not show up as your own repositories in your profile as you are not the owner.  However, you see them in your dashboard in GitHub. Access your dashboard anytime by clicking on the GitHub logo at the top-left of any page. 
 
@@ -92,13 +92,14 @@ You can build codespaces for any other repositories as well.
 
 I may need to update assignments from time to time.  If you want to refresh your repository do as follows:
 
-  1. First delete your the Assignment repository in GitHub
+1. First delete your Assignment repository in GitHub
 
-  1. Say, select `The-University-of-Queensland-Lovell/assignment-3-solution-repository-<yourGitHubName>` in GitHub
+   - Select the `The-University-of-Queensland-Lovell/assignment-3-solution-repository-<yourGitHubName>`repository in GitHub
 
-  1. Click on Settings/General and scroll to the bottom until you find `Delete Repository`
+   - Click on Settings/General and scroll to the bottom until you find `Delete Repository`
 
-  1. Accept the Assignment invitation again to fetch the updated Assignment template. 
+1. Then Accept the Assignment invitation again to fetch the updated Assignment template. 
+   - [Assignment 3 invitation](https://classroom.github.com/a/bFnkoIfT)
 
 ## Solution Code for Submission
 
