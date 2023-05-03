@@ -97,7 +97,7 @@ Fear not. This is easily fixed as i just found out.
 - Click on your user icon in the top right corner of GitHub
 - Select `Settings` from the drop down
 - Now click `Repositories` in the left menu
-- Click on `Deleted Repositories` and slect `Restore`
+- Click on `Deleted Repositories` and select `Restore`
 
 ## Solution Code for Submission
 
