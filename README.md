@@ -1,11 +1,20 @@
 # ELEC4630 Assignment 3 - Deep Learning Assignment
 
+                            Author: Brian Lovell for ELEC4630
+
+# Table of contents
+- [Here are Some Resources to Complete this Assignment](#here-are-some-resources-to-complete-this-assignment)
+- [Software to Install on your own PC](#software-to-install-on-your-own-pc)
+- [Software to Install on your Phone](#software-to-install-on-your-phone)
+- [Codespaces to run your Notebooks](#codespaces-to-run-your-notebooks)
+- [How to find your Codespaces Machine again](#how-to-find-your-codespaces-machine-again)
+- [Try out your First fastai Notebook](#try-out-your-first-fastai-notebook)
+- [Fetching Updates on the Assignment Respositories](#fetching-updates-on-the-assignment-respositories)
+- [Solution Code for Submission](#solution-code-for-submission)
 
 ## Here are Some Resources to Complete this Assignment
 
 For the first time, I will attempt to give all my students on online preconfigured linux server with root access and GPU acceleration via a GitHub Classroom.   Your computer will come preconfigured with an introduction to Git and the entire set of notebooks for our fastai course written by Prof Jeremy Howard.  He has literally written the book on AI.  The latest version of his course was recorded live at UQ. 
-
-
 
 [Practical Deep Learning Course](https://course.fast.ai/)
 
@@ -38,7 +47,7 @@ I suggest you install your repositories on Google Drive after downloading `Drive
 Install the GitHub app on iOS or Android phones. It is available in the App Store or Google Play. This app is used for browsing repositories and also for authorizing potentially dangerous actions such as deleting repositories. 
 
 
-### Codespaces to run your Notebooks etc
+## Codespaces to run your Notebooks
 
 Create your personal virtual Deep Learning PC running Linux in `Codespaces`.
 
