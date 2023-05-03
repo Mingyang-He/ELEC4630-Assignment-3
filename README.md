@@ -2,7 +2,7 @@
 
                             Author: Brian Lovell for ELEC4630
 
-# Table of contents
+# Table of Contents
 - [Here are Some Resources to Complete this Assignment](#here-are-some-resources-to-complete-this-assignment)
 - [Software to Install on your own PC](#software-to-install-on-your-own-pc)
 - [Software to Install on your Phone](#software-to-install-on-your-phone)
@@ -92,7 +92,7 @@ I may need to update assignments from time to time.  If you want to refresh your
 
 ## I Deleted the Wrong Repository
 
-Fear not. This is easily fixed as i just found out.
+Fear not. This is easily fixed as I just found out.
 
 - Click on your user icon in the top right corner of GitHub
 - Select `Settings` from the drop down
