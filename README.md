@@ -3,7 +3,7 @@
                             Author: Brian Lovell for ELEC4630
 
 # Table of Contents
-- [Here are some Resources to Complete this Assignment](#here-are-some-resources-to-complete-this-assignment)
+- [Here are Some Resources to Complete this Assignment](#here-are-some-resources-to-complete-this-assignment)
 - [Software to Install on your own PC](#software-to-install-on-your-own-pc)
 - [Software to Install on your Phone](#software-to-install-on-your-phone)
 - [Codespaces to run your Notebooks](#codespaces-to-run-your-notebooks)
